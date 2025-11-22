@@ -65,4 +65,13 @@ in_ls = ['apple', 'pie', 'banana', 'cat']
 out_ls = sort_by_length_then_alphabet_desc(in_ls)
 print(out_ls)
 
+# Zadatak 29: Provera palindroma
+ # Napiši funkciju koja proverava da li je data reč palindrom (čita se isto s leva na desno i s desna na levo).
+ #
+ # Primer ulaza: "anavolimilovana"
+ # Očekivani izlaz: True
+ # Hint: String slicing [::-1] je veoma moćan alat za obrtanje.
+
+
+
 
